@@ -1,0 +1,6 @@
+{
+  "name": "Mahima AI",
+  "description": "Advanced AI Girlfriend Assistant with voice conversations, emotions, and smart phone control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
